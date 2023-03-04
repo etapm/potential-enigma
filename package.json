@@ -1,0 +1,22 @@
+{
+  "name": "project_readme",
+  "version": "1.0.0",
+  "description": "Working on module 9.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etapm/potential-enigma.git"
+  },
+  "author": "etapm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etapm/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/etapm/potential-enigma#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
