@@ -13,7 +13,7 @@ I made a tool called a README generator using Node.js and Inquirer. This helped 
 
 ## Installation
 
-Review the code on the GitHub repository by visiting the [GitHub Repository](https://github.com/etapm/readme-generator).
+Review the code on the GitHub repository by visiting the [GitHub Repository](https://github.com/etapm/readme-generator). Be sure to also check out the [Walkthrough Video](https://drive.google.com/file/d/1klgeEh6djU85q6Ag_gpEU2CvFWff_E1Z/view) to see the README generator in action.
 
 ## Usage
 
