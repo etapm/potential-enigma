@@ -62,8 +62,12 @@ N/A
 
 ## How to Contribute
 
-N/A
+For guidance on installing this project, contributors should refer to the installation section.
 
 ## Tests
 
-N/A
+To run the tests for this project, follow these steps: Clone the repository to your local machine, install the necessary dependencies by running npm install, and run the tests using the npm test command.
+
+## Questions
+
+If you have any questions, please contact me at etap@ucdavis.edu. You can also visit my GitHub profile at https://github.com/etapm.
