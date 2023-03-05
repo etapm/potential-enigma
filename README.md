@@ -13,7 +13,7 @@ I made a tool called a README generator using Node.js and Inquirer. This helped 
 
 ## Installation
 
-To use this application, the user needs to clone the repository from GitHub and install Node. Additionally, the application depends on both the file system and inquirer modules. Review the code on the GitHub repository by visiting the [GitHub Repository](https://github.com/etapm/readme-generator). Be sure to also check out the [Walkthrough Video](https://drive.google.com/file/d/1klgeEh6djU85q6Ag_gpEU2CvFWff_E1Z/view) to see the README generator in action.
+To use this application, the user needs to clone the repository from GitHub and install Node. Additionally, the application depends on both the file system and inquirer modules. Review the code on the GitHub repository by visiting the [GitHub Repository](https://github.com/etapm/readme-generator).
 
 ## Usage
 
@@ -43,6 +43,8 @@ The README generator built using Node.js and Inquirer is a useful tool for autom
 6. You can customize and edit the README file as needed.
 
 ![Weather Dashboard Home Page](./Develop/Images/Screenshot6.png)
+
+Here is the walkthrough video: [Video](https://youtu.be/PgvkI_M5QG8)
 
 ## Credits
 
